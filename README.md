@@ -1,4 +1,4 @@
-# PROMPT WARRIOR <img src="https://github.com/Mostapha-El-Kaddaoui/PROMPT-WARRIOR-Chrome-Extension-JS-TaiwlindCSS/blob/main/images/icon48.png" alt="Logo" width="200"/>
+# PROMPT WARRIOR <img src="https://github.com/Mostapha-El-Kaddaoui/PROMPT-WARRIOR-Chrome-Extension-JS-TaiwlindCSS/blob/main/images/icon48.png" alt="Logo" width="20"/>
 
 ## Introduction
 This Chrome extension allows users to define specific constraints for their interactions with DeepSeek, ensuring that responses remain aligned with their expectations throughout the session. Once set, these constraints persist and are automatically applied to all subsequent queries without the need to repeat them.
