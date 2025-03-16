@@ -3,6 +3,9 @@
 ## Introduction
 This Chrome extension allows users to define specific constraints for their interactions with DeepSeek, ensuring that responses remain aligned with their expectations throughout the session. Once set, these constraints persist and are automatically applied to all subsequent queries without the need to repeat them.
 
+![image](https://github.com/user-attachments/assets/243c4485-813b-4562-bb28-6cce4d72c25a)
+
+
 ## Problem Statement
 AI models like DeepSeek tend to forget initial user instructions after a few exchanges, leading to responses that no longer adhere to the originally defined expectations. For instance, a user requesting precise and concise responses may notice that replies gradually become longer and more detailed over time.
 
