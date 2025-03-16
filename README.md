@@ -24,7 +24,7 @@ This extension introduces a floating interface that enables users to:
 ### Installation (Development Mode)
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/chatgpt-deepseek-constraint-extension.git
+   git clone https://github.com/Mostapha-El-Kaddaoui/PROMPT-WARRIOR-Chrome-Extension-JS-TaiwlindCSS.git
    ```
 2. **Open Google Chrome** and go to `chrome://extensions/`.
 3. **Enable Developer Mode** (top right corner).
@@ -39,6 +39,11 @@ This extension introduces a floating interface that enables users to:
 
 ### Publication
 The extension is currently being finalized for release on the Chrome Web Store. In the meantime, it can be installed in developer mode.
+
+
+## Video Demo
+https://github.com/user-attachments/assets/818d230f-fe2c-4536-9a65-afe42aff37b7
+
 
 ## Founder
 This extension was created by [EL KADDAOUI Mostapha](https://www.linkedin.com/in/mostapha-el-kaddaoui/).
