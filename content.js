@@ -622,7 +622,6 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
        <div style="width: 580px; background-color:#4d6bfd;" class="h-48 rounded-xl flex p-3 space-x-3">
         <div class="flex-none flex flex-col w-1/4">
             <div>
-                <h3 style="font-weight:bold;" class="text-white text-lg font-oswald">Contraints</h3>
             </div>
             <div class="flex flex-col bg-white rounded-lg h-full w-full mt-2 p-1">
                 <textarea id="textContrants" class="w-full h-full text-slate-900 bg-white outline-none" placeholder="Enter contract details here..."></textarea>
