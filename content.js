@@ -2,21 +2,17 @@
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     if (request.action === "showBox") {
       showFloatingBox();
-      // Always send a response, even if it's just an acknowledgement
       sendResponse({status: "success"});
-      return true; // Indicates you wish to send a response asynchronously
+      return true; 
     }
   });
   
   function showFloatingBox() {
-      // Check if the box already exists
       if (document.getElementById('floating-box')) return;
     
-      // Create the div element
       const box = document.createElement('div');
       box.id = 'floating-box';
     
-      // Apply styles to the box
       box.style.position = 'fixed';
       box.style.bottom = '25px';
       box.style.right = '20px';
@@ -676,7 +672,6 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
    
   }
     
-  // In your content.js file, modify the event listener for the addtext button:
 
 
 

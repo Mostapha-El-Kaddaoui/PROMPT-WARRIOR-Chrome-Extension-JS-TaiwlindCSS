@@ -38,3 +38,4 @@ The extension is currently being finalized for release on the Chrome Web Store. 
 
 ## Founder
 This extension was created by [EL KADDAOUI Mostapha](https://www.linkedin.com/in/mostapha-el-kaddaoui/).# PROMPT-WARRIOR-Chrome-Extension-JS-TaiwlindCSS
+# PROMPT-WARRIOR-Chrome-Extension-JS-TaiwlindCSS
